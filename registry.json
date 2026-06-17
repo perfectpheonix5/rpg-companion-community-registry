@@ -1775,5 +1775,18 @@
     "github_repo": "sherriff1/Spirit-Vessel-Ranger",
     "repo_url": "https://sherriff1.github.io/Spirit-Vessel-Ranger/",
     "has_system": false
+  },
+  {
+    "id": "grim-hollow-player-guide-24",
+    "name": "grim-hollow-player-guide-24",
+    "description": "WIP. Subclasses and spells from the Grim Hollow Player's Guide.",
+    "tags": [
+      "5e2024",
+      "dark-fantasy"
+    ],
+    "stars": 0,
+    "github_repo": "misacl9/grim-hollow-player-guide-24",
+    "repo_url": "https://misacl9.github.io/grim-hollow-player-guide-24/",
+    "has_system": false
   }
 ]
