@@ -1788,5 +1788,17 @@
     "github_repo": "misacl9/grim-hollow-player-guide-24",
     "repo_url": "https://misacl9.github.io/grim-hollow-player-guide-24/",
     "has_system": false
+  },
+  {
+    "name": "tulas-race",
+    "description": "it is a race about spiders",
+    "tags": [
+      "5e",
+      "homebrew"
+    ],
+    "stars": 0,
+    "github_repo": "perfectpheonix5/tulas-race",
+    "repo_url": "https://perfectpheonix5.github.io/tulas-race/",
+    "has_system": false
   }
 ]
